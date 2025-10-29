@@ -19,7 +19,7 @@ Model ini ditraining selama 50 *epoch* dan mencapai **mAP50 sebesar 95.6%** pada
 <br>
 <img width="300" height="300" alt="results" src="https://github.com/user-attachments/assets/8bfb8f7b-c64b-4c6d-b9a8-f9fd5d60d7d4" />
 <br>
-<img width="200" height="800" alt="results" src="https://github.com/user-attachments/assets/73590b34-6c85-458f-92de-182b69c56a79" />
+<img width="400" height="1000" alt="results" src="https://github.com/user-attachments/assets/73590b34-6c85-458f-92de-182b69c56a79" />
 
 ---
 
