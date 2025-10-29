@@ -1,6 +1,0 @@
-train: ./sample_dataset/images
-val: ./sample_dataset/images
-test: ./sample_dataset/test
-
-nc: 1
-names: ['sawit']
